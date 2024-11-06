@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/white" />
+        <!-- Définit la couleur de fond du bouton -->
+        <corners android:radius="0dp" />
+        <!-- Supprime les coins arrondis en définissant le rayon à 0dp -->
+    </shape>
+

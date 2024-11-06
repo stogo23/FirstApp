@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hint_email">exemple@gmail.com</string>
+    <string name="hint_password">mot de passe</string>
+    <string name="button_text">SE CONNECTER</string>
+    <string-array name="posts">
+        <item>Post 1</item>
+        <item>Post 2</item>
+        <item>Post 3</item>
+        <item>Post 4</item>
+        <item>Post 5</item>
+    </string-array>
+</resources>
